@@ -44,7 +44,7 @@ You are going to design and build a simple e-commerce RESTful API serivce to fit
 
 ## Endpoints Reference
 
-You can free to define the parameter name 
+You are free to define the input and output parameter.
 
 ### Login
 
@@ -52,7 +52,7 @@ URL: `/login`
 
 Description: 
 
-Get an authorization token after loginning with their user name and password
+Use `username` and `password` to log in and get an authorization token
 
 ---
 ### Purchase
@@ -61,7 +61,7 @@ URL: `/order`
 
 Description: 
 
-Order a list of product items and make an order. The operation should be transactional.
+Order product item(s) and make an order. The operation should be transactional.
 
 ---
 ### Get my order
@@ -70,7 +70,4 @@ URL: `/my_order`
 
 Description:
 
-Show all the orders of the user and a list of items inside the order
-
-
-
+Show the user's order(s) and a list of items inside the order.
