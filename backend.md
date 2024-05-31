@@ -14,7 +14,7 @@ Use the following undirected graph ­- nodes can be visited only once:
 # Question 2
 
 ## Goal
-You are going to design and build a simple e-commerce RESTful API to fit the following requirement. You are free to use any libraries / progamming languages.
+You are going to design and build a simple e-commerce RESTful API serivce to fit the following requirement. You are free to use any libraries / progamming languages.
 
 ## Background
 - Sample data are under `/backend` folder. You can import into your preferred database.
