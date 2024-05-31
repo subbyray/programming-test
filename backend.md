@@ -17,7 +17,7 @@ Use the following undirected graph ­- nodes can be visited only once:
 You are going to design and build a simple e-commerce RESTful API serivce to fit the following requirement. You are free to use any libraries / progamming languages.
 
 ## Background
-- Sample data are under [assets/backend](assets/backend/) folder. You can import into your preferred database.
+- Seed data are under [assets/backend](assets/backend/) folder. You can import into your preferred database.
 - Users are already pre-registered in the database. No user creation is needed.
 - All users' password are masked by `sha1` and all the actual password are `password123`
 
@@ -43,13 +43,16 @@ You are going to design and build a simple e-commerce RESTful API serivce to fit
 ---
 
 ## Endpoints Reference
+
+You can free to define the parameter name 
+
 ### Login
 
 URL: `/login`
 
 Description: 
 
-Login with they `username` and `password` and return a token for further authorization
+Get an authorization token after loginning with their user name and password
 
 ---
 ### Purchase
