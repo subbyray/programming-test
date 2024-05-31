@@ -55,7 +55,7 @@ Description:
 Use `username` and `password` to log in and get an authorization token
 
 ---
-### Purchase
+### Order items
 
 URL: `/order`
 
