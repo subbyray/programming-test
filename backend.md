@@ -11,6 +11,7 @@ You are going to design and build a simple e-commerce RESTful API serivce to fit
 
 ## User requirements
 
+- User has to sign up and login before ordering product(s)
 - User name must be unique
 - Each login session will be expired after 7 days
 - When a product item is purchased, the quantity will be deduced
@@ -23,9 +24,9 @@ You are going to design and build a simple e-commerce RESTful API serivce to fit
 - Authorization is required to all endpoints except for the `login` & `signup` endpoint
 - Test cases are required
 - Design database table(s) to fulfill the requirements, and provide SQL statement for table creation
-- Provide an ERD (Entity relationship diagram) 
-- User password cannot be stored in plain text
-- Provide a setup guidance 
+- User's password cannot be stored in plain text
+- Provide an ERD (Entity relationship diagram) to visualise your data model
+- Provide a setup guidance
 - Source code must be stored in a git repository (github /gitlab / bitbucket)
 
 
@@ -45,7 +46,7 @@ User can sign up with user name and password
 
 ### Login
 
-Use user name and password to log in and get an authorization token
+Use user name and password to log in and get an authorisation token
 
 ---
 ### Order items
