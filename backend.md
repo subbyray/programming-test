@@ -21,11 +21,8 @@ You are going to design and build a simple e-commerce RESTful API serivce to fit
 
 
 ## Technical Requirement
-- Authorization is required to all endpoints except for the `login` & `signup` endpoint
 - Test cases are required
 - Design database table(s) to fulfill the requirements, and provide SQL statement for table creation
-- User's password cannot be stored in plain text
-- Provide an ERD (Entity relationship diagram) to visualise your data model
 - Provide a setup guidance
 - Source code must be stored in a git repository (github /gitlab / bitbucket)
 
