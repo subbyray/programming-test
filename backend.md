@@ -1,7 +1,7 @@
 # Programming Test
 
 ## Goal
-You are going to design and build a simple e-commerce RESTful API serivce to fit the following requirement. You are free to use any libraries / progamming languages.
+You are going to design and build a simple e-commerce RESTful API serivce to fit the following requirements. You are free to use any libraries / progamming languages.
 
 
 ## Background
