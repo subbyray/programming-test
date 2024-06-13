@@ -42,17 +42,7 @@ Use the following undirected graph ­- nodes can be visited only once:
 - Test cases are required
 - Setup instruction is required
 - Expect the code is **production ready**
-
-* ### iOS Engineer
-	- Storyboard or XIB is not allowed (Create UI with code only)
-	- Use the latest version of `Swift`
-
-* ### Android Engineer
-	- Project must compile in Android Studio and Gradle
-	- Use the latest version of `Java` or `Kotlin`
-
-* ### Flutter Engineer
-	- Use the latest version of `Dart` and `Flutter`
+- Only accept mobile application, web app is not allowed
 
 
 ## Wireframe
