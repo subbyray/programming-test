@@ -76,3 +76,4 @@ limiter = create_rate_limiter(capacity=5, leak_rate=1.0)
 1. Core implementation of the three required functions
 2. Test cases demonstrating correctness across key scenarios
 3. Brief explanation of your design decisions and trade-offs
+4. Source code must be stored in a git repository (github /gitlab / bitbucket)
